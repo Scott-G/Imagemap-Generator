@@ -2,7 +2,7 @@
 /*
  * HTML Imagemap Generator
  * build with PHP, jQuery Maphighlight and CSS3
- * Since 	1/2013
+ * Date 	January 2013
  * Version	v1.2
  * by		Dario D. Müller
  * 			http://dariodomi.de

@@ -2,8 +2,8 @@
 /*
  * HTML Imagemap Generator
  * build with PHP, jQuery Maphighlight and CSS3
- * Since 	1/2013
- * Version	v1.1.1
+ * Date 	January 2013
+ * Version	v1.2
  * by		Dario D. Müller
  * 			http://dariodomi.de
  * License	Distributed under the Lesser General Public License (LGPL)
