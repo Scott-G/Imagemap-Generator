@@ -238,8 +238,7 @@ if($_SESSION['image'] != null && !empty($_SESSION['image'][0]) && (substr_count(
 	</div>
 	
 	<div id="infotext">
-		<address class="author">Design &amp; Code &copy; 2013 by <a rel="author" href="https://plus.google.com/113304109683958874741/" title="Dario D. Müller">Dario D. Müller</a><br />Feedback: <a href="mailto:mailme@dariodomi.de">mailme@dariodomi.de</a></address>
-		<p class="infolast">This Software uses Google Analytics.<br />It's build with jQuery Framework and CSS3.</p>
+		<address class="author">Software &copy; 2013 by <a rel="author" href="https://plus.google.com/113304109683958874741/" title="Dario D. Müller">Dario D. Müller</a><br />More Infos and Projects visit <a href="http://dariodomi.de" target="_blank">dariodomi.de</a><br />Feedback? <a href="mailto:mailme@dariodomi.de">mailme@dariodomi.de</a><br />Open Source Project hosted at <a href="https://github.com/DarioDomiDE/Imagemap-Generator" target="_blank">Github</a><br />This Software uses Google Analytics.</address>
 	</div>
 	<div id="info"></div>
 	
